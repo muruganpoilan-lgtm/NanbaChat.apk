@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NanbaChat</string>
+    <string name="user_mode">User Mode</string>
+    <string name="partner_mode">Partner Mode</string>
+    <string name="quick_match">Quick Match</string>
+    <string name="active_call">Active Call</string>
+    <string name="wallet">Wallet</string>
+    <string name="history">History</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "NanbaChat",
+  "description": "Anonymous voice connection platform with instant matchmaking, live voice conversations, and per-minute billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
